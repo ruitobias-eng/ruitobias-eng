@@ -57,6 +57,38 @@
 
 ## 💻 Programming Languages
 
+### 🚀 Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+---
+
+### ⚙️ Systems & Low-Level
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
+
+---
+
+### 📱 Mobile & Cross-platform
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+
+---
+
+### 🧠 Data & Scientific Computing
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia)
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
