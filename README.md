@@ -155,9 +155,11 @@ Computer Engineer • AI & Cloud Enthusiast • Math & Physics Educator
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruitobias-eng&show_icons=true&theme=tokyonight"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=ruitobias-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruitobias-eng&layout=compact&theme=tokyonight"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruitobias-eng&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
@@ -165,4 +167,4 @@ Computer Engineer • AI & Cloud Enthusiast • Math & Physics Educator
 # ✨ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-```
+
