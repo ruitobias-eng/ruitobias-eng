@@ -1,4 +1,3 @@
-```md
 <h1 align="center">
   Hi 👋, I'm Rui Tobias Carvalho
 </h1>
