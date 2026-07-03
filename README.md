@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rui Tobias Carvalho</h1>
+<h1 align="center">Hi 👋, I'm Rui Tobias ...[Bibo}</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Computer+Engineer;AI+%26+LLM+Engineer;Cloud+%26+DevOps+Enthusiast;Machine+Learning+Developer;RAG+%26+AI+Agents;Full-Stack+Systems+Architect" />
